@@ -1,3 +1,5 @@
+This app was created in order to practice importing react componnents and to utilize the "Bulma" CSS library my running "npm install bulma" and importing it into the app, learning how to review its documentation to utilize its CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
